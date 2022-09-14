@@ -1,0 +1,15 @@
+.loginForm{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    width: 100%;
+    height: 35vh;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    
+}
+.loginButton{
+    margin-top: 1rem;
+}
